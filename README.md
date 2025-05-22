@@ -88,6 +88,10 @@ mihomo使用mrs格式文件，Stash使用yaml格式文件
 
 **[configfull_NoAd_Stash_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_Stash_lite.yaml)**
 
+## 一键生成配置/Generate configuration with one click
+地址
+https://mihomo.haxtop.ggff.net/
+>
 ## 客户端推荐/Client Recommendation
 •Windows/MacOS/Linux
 >
@@ -104,11 +108,12 @@ mihomo使用mrs格式文件，Stash使用yaml格式文件
 >
 •iOS
 >
-<a href="https://apps.apple.com/us/app/clash-mi/id6744321968"><img src="https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/clashmi.png" width="32" style="vertical-align:middle;"/> ClashMi</a>
->
 <a href="https://apps.apple.com/us/app/pharos-pro/id1456610173"><img src="https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/pharos.png" width="32" style="vertical-align:middle;"/> Pharos</a>
 >
 <a href="https://apps.apple.com/app/stash/id1596063349?platform=iphone&l=zh-CN"><img src="https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash.png" width="32" style="vertical-align:middle;"/> Stash</a>
+>
+<a href="https://apps.apple.com/us/app/clash-mi/id6744321968"><img src="https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/clashmi.png" width="32" style="vertical-align:middle;"/> ClashMi</a>
+>
 >
 •Openwrt
 >
@@ -148,6 +153,7 @@ mihomo使用mrs格式文件，Stash使用yaml格式文件
 
 •[SSTap](https://github.com/FQrabbit/SSTap-Rule)
 
+•[Kwisma](https://github.com/Kwisma/cf-worker-mihomo)
 
 # Tip
 生活是条双行道，
